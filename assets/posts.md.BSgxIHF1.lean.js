@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,ag as s}from"./chunks/framework.BI-uRL_P.js";const u=JSON.parse('{"title":"Posts","description":"","frontmatter":{},"headers":[],"relativePath":"posts.md","filePath":"posts.md"}'),r={name:"posts.md"};function i(n,t,l,h,c,p){return o(),a("div",null,t[0]||(t[0]=[s("",5)]))}const f=e(r,[["render",i]]);export{u as __pageData,f as default};
