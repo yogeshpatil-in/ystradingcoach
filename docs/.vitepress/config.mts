@@ -5,6 +5,7 @@ export default defineConfig({
   title: "YS Trading Coach",
   description: "unlock consistent profitability in trading",
   base: '/ystradingcoach/',
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/',
